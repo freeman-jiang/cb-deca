@@ -1,6 +1,6 @@
 # Colonel By DECA Club Website
 Responsive, mobile-friendly website created for Colonel By Secondary School's DECA Club using Bootstrap 4.
-Hosted website available at: https://freeman-jiang.github.io/cb-deca/
+Hosted website available at: https://freemanjiang.com/cb-deca/
 ![image](https://user-images.githubusercontent.com/56516912/120905740-311b6a00-c622-11eb-8e83-72062e2b82a1.png)
 ![image](https://user-images.githubusercontent.com/56516912/120905755-42647680-c622-11eb-9181-0534cec03f76.png)
 ![image](https://user-images.githubusercontent.com/56516912/120905766-527c5600-c622-11eb-94aa-dcbb0b65002f.png)
