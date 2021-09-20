@@ -5,7 +5,7 @@ Responsive, mobile-friendly website created for Colonel By Secondary School's DE
 **Technologies**: Bootstrap 4, HTML, CSS, JS
 
 ## Hosted App
-Hosted website available at: https://freemanjiang.com/cb-deca/
+https://freemanjiang.com/cb-deca/
 
 ## Screenshots
 ![image](https://user-images.githubusercontent.com/56516912/120905740-311b6a00-c622-11eb-8e83-72062e2b82a1.png)
